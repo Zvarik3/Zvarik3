@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Stach<br>🌱 I’m currently learning Rust
+🔭 I’m currently working on ![Stach](https://github.com/aksohn3/Stach)<br>🌱 I’m currently learning Rust
 
 
 # 💻 Tech Stack:
